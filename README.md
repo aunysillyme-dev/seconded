@@ -1,5 +1,7 @@
 # SECONDED
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/aunysillyme-dev/seconded/badge)](https://scorecard.dev/viewer/?uri=github.com/aunysillyme-dev/seconded)
+
 **A concern is heard when a second person has it too.**
 
 Camp AI, Season 2 Episode 9, theme "Group Red Flag Detector". Built live in the window.
